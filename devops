@@ -1,0 +1,22 @@
+
+
+DevOps is a set of practices, tools, and a cultural philosophy that automate and integrate the processes between software development and IT teams. It emphasizes team empowerment, cross-team communication and collaboration, and technology automation.
+Use free DevOps template
+
+What is DevOps?
+
+DevOps is a software development methodology that accelerates the delivery of high-performance applications and services by combining and automating the work of software development (Dev) and IT operations (Ops) teams.
+
+DevOps outlines both a software development process and an organizational culture shift that fosters coordination and collaboration between the development team and IT operations teams. These two groups traditionally practiced separately from each other in distinct silos. In the DevOps methodology, they work as one team with a set of shared tools and practices.
+
+The hallmarks of DevOps are continuous integration and continuous delivery (CI/CD), which support smaller, faster software updates. With CI/CD, small chunks of new code are merged into the code base at frequent intervals, and then automatically integrated, tested and prepared for deployment to the production environment.
+Learn more about the CI/CD pipeline
+
+DevOps is an evolution of the agile software development methodology, which emerged as an alternative to the waterfall methodology. In the waterfall approach, software development teams spent months developing large bodies of code, which then underwent months of testing before release. In contrast, agile development takes an iterative approach to the software delivery lifecycle.
+
+DevOps adds new processes and tools to the agile methodology, notably the automation of much of the CI/CD pipeline.
+
+Ultimately, DevOps is about meeting software users’ demands for frequent, innovative new features and uninterrupted performance and availability.
+
+The DevOps movement began around 2007 when the software development and IT operations communities raised concerns about the traditional software development model, where developers who wrote code worked apart from operations who deployed and supported the code. The term DevOps, a combination of the words development and operations, reflects the process of integrating these disciplines into one, continuous process.
+
